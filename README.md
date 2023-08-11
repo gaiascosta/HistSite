@@ -1,2 +1,2 @@
 # HistSite
-Site do trabalho de geopolítica
+Site do trabalho de geopolítica.
